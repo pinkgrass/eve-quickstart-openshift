@@ -21,6 +21,11 @@ https://github.com/nicolaiarocci/eve-demo-client.
 only updated when major Eve updates are released. Please refer to the official
 Eve repository for an up-to-date features list. 
 
+Deploying to OpenShift
+**********************
+
+
+
 .. _Eve: http://python-eve.org
 .. _run.py: https://github.com/nicolaiarocci/eve-demo/blob/master/run.py
 .. _settings.py: https://github.com/nicolaiarocci/eve-demo/blob/master/settings.py

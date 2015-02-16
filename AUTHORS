@@ -9,4 +9,6 @@ Development Lead
 Patches and Suggestions
 ```````````````````````
 
-- <your name here>
+- Richard Crook - Feb 2015
+Forked and added code to run on OpenShift
+Also added eve-docs because you should!
